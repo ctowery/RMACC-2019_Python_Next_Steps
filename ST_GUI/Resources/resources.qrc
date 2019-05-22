@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="cmaps">
+    <file>bgy.png</file>
+    <file>bgyw.png</file>
+    <file>bjy.png</file>
+    <file>bkr.png</file>
+    <file>bky.png</file>
+    <file>blues.png</file>
+    <file>bmw.png</file>
+    <file>bmy.png</file>
+    <file>coolwarm.png</file>
+    <file>dimgray.png</file>
+    <file>fire.png</file>
+    <file>gray.png</file>
+    <file>gwv.png</file>
+    <file>isolum.png</file>
+    <file>kb.png</file>
+    <file>kbc.png</file>
+    <file>kg.png</file>
+    <file>kgy.png</file>
+    <file>kr.png</file>
+    <file>rainbow.png</file>
+  </qresource>
+</RCC>
